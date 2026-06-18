@@ -2,7 +2,3 @@ venv/
 __pycache__/
 *.pyc
 data/conversations.csv
-checkpoints/topic_matrix.npz
-checkpoints/chunk_matrix.npz
-checkpoints/topic_vectorizer.pkl
-checkpoints/chunk_vectorizer.pkl
