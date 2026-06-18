@@ -1,0 +1,176 @@
+{
+  "habits": {
+    "late_sleeper": {
+      "confidence": 1.0,
+      "evidence_count": 45
+    },
+    "early_riser": {
+      "confidence": 1.0,
+      "evidence_count": 57
+    },
+    "coffee_lover": {
+      "confidence": 1.0,
+      "evidence_count": 294
+    },
+    "tea_drinker": {
+      "confidence": 1.0,
+      "evidence_count": 149
+    },
+    "foodie": {
+      "confidence": 1.0,
+      "evidence_count": 410
+    },
+    "fitness_enthusiast": {
+      "confidence": 1.0,
+      "evidence_count": 1393
+    },
+    "gamer": {
+      "confidence": 1.0,
+      "evidence_count": 1476
+    },
+    "reader": {
+      "confidence": 1.0,
+      "evidence_count": 8323
+    },
+    "music_listener": {
+      "confidence": 1.0,
+      "evidence_count": 936
+    },
+    "traveler": {
+      "confidence": 1.0,
+      "evidence_count": 1412
+    },
+    "smoker": {
+      "confidence": 1.0,
+      "evidence_count": 32
+    },
+    "drinker": {
+      "confidence": 1.0,
+      "evidence_count": 94
+    },
+    "social_media_user": {
+      "confidence": 1.0,
+      "evidence_count": 161
+    },
+    "cook": {
+      "confidence": 1.0,
+      "evidence_count": 1243
+    },
+    "procrastinator": {
+      "confidence": 1.0,
+      "evidence_count": 7
+    }
+  },
+  "personal_facts": {
+    "student": {
+      "confidence": 1.0,
+      "evidence_count": 879
+    },
+    "employed": {
+      "confidence": 1.0,
+      "evidence_count": 1714
+    },
+    "has_pet": {
+      "confidence": 1.0,
+      "evidence_count": 1563
+    },
+    "has_sibling": {
+      "confidence": 1.0,
+      "evidence_count": 172
+    },
+    "has_partner": {
+      "confidence": 1.0,
+      "evidence_count": 287
+    },
+    "has_children": {
+      "confidence": 1.0,
+      "evidence_count": 477
+    },
+    "lives_alone": {
+      "confidence": 1.0,
+      "evidence_count": 7
+    },
+    "lives_with_family": {
+      "confidence": 1.0,
+      "evidence_count": 54
+    },
+    "car_owner": {
+      "confidence": 1.0,
+      "evidence_count": 117
+    },
+    "musician": {
+      "confidence": 1.0,
+      "evidence_count": 407
+    }
+  },
+  "personality_traits": {
+    "humorous": {
+      "confidence": 1.0,
+      "evidence_count": 433
+    },
+    "empathetic": {
+      "confidence": 1.0,
+      "evidence_count": 440
+    },
+    "curious": {
+      "confidence": 1.0,
+      "evidence_count": 1319
+    },
+    "optimistic": {
+      "confidence": 1.0,
+      "evidence_count": 413
+    },
+    "anxious_worried": {
+      "confidence": 1.0,
+      "evidence_count": 384
+    },
+    "direct": {
+      "confidence": 1.0,
+      "evidence_count": 6
+    },
+    "romantic": {
+      "confidence": 1.0,
+      "evidence_count": 49
+    },
+    "intellectual": {
+      "confidence": 1.0,
+      "evidence_count": 355
+    },
+    "adventurous": {
+      "confidence": 1.0,
+      "evidence_count": 304
+    },
+    "introverted": {
+      "confidence": 1.0,
+      "evidence_count": 19
+    },
+    "extroverted": {
+      "confidence": 1.0,
+      "evidence_count": 355
+    }
+  },
+  "communication_style": {
+    "avg_message_length_words": 11.1,
+    "message_count": 98079,
+    "message_length_style": "concise",
+    "emoji_usage": "rare",
+    "slang_usage": "rare",
+    "formality": "informal",
+    "exclamation_rate": 0.55,
+    "question_rate": 0.27,
+    "caps_usage": "rare",
+    "ellipsis_usage": "rare",
+    "tone": "casual"
+  },
+  "topics_of_interest": {
+    "relationships": 12161,
+    "food_cooking": 11916,
+    "hobbies_entertainment": 11440,
+    "work_career": 5153,
+    "technology": 2416,
+    "travel": 2267,
+    "shopping_money": 970,
+    "health_fitness": 810
+  },
+  "summary": "Personality: humorous, empathetic, curious, optimistic | Habits: late_sleeper, early_riser, coffee_lover, tea_drinker, foodie | Facts: student, employed, has_pet, has_sibling, has_partner | Communication: casual tone, concise messages | Interests: relationships, food cooking, hobbies entertainment, work career"
+}
